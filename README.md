@@ -94,3 +94,11 @@ The app follows **Single Source of Truth** principle.
 ## API Used
 
 https://jsonplaceholder.typicode.com/users
+
+---
+
+## APK Download
+
+You can download and install the latest APK from GitHub Releases:
+
+👉 [Download APK](https://github.com/shuklaaman1809/Applaunch_Assignment/releases/latest)
