@@ -12,7 +12,6 @@ class UserRepository @Inject constructor(
     private val dao: UserDao
 ) {
 
-    // 🔑 Source of truth
     val usersFlow: Flow<List<UserEntity>> = dao.getUsers()
 
     fun getUserById(id: Int): Flow<UserEntity?> =

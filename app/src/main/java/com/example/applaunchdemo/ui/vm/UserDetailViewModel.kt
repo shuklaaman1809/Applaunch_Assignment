@@ -5,7 +5,6 @@ import androidx.lifecycle.viewModelScope
 import com.example.applaunchdemo.db.UserEntity
 import com.example.applaunchdemo.repository.UserRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
-import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.stateIn

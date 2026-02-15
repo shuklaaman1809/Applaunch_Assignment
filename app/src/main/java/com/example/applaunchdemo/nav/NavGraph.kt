@@ -4,7 +4,6 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.applaunchdemo.db.UserEntity
 import com.example.applaunchdemo.ui.screens.UserDetailScreen
 import com.example.applaunchdemo.ui.screens.UserListScreen
 import com.example.applaunchdemo.ui.vm.UserDetailViewModel
